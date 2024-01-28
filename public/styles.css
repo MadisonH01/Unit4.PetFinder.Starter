@@ -1,0 +1,27 @@
+html,
+body {
+  text-align: center;
+  background-color: rgb(141, 197, 221);
+  color: rgb(151, 151, 151);
+}
+
+.card {
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid rgb(186, 214, 187);
+}html,
+body {
+  text-align: center;
+  background-color: rgb(141, 197, 221);
+  color: white;
+}
+
+ul {
+    display: contents;
+  }
+  
+  li {
+    list-style-position: inside;
+  }
